@@ -1,4 +1,4 @@
-# Omni for [Youtube](https://todoist.com/) using [stylus](https://add0n.com/stylus.html)
+# Omni for [Todoist](https://todoist.com/) using [stylus](https://add0n.com/stylus.html)
 
 ![Screenshot](./printscreen.png)
 
@@ -6,7 +6,7 @@
 
 If you have the stylus extension installed you can install the theme by clicking the link below.
 
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://github.com/filipelperes/omni-todoist/raw/main/omni.user.css)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://github.com/filipelperes/omni-todoist/raw/main/todoist.user.css)
 
 ## [contributors](https://github.com/filipelperes/omni-youtube/graphs/contributors)
 
